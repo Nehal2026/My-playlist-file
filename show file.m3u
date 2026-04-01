@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
@@ -9,7 +10,7 @@ https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThdnuXhsQ7CN-YpMFKlQu9T15lGAchXbwIsw&s" group-title="Bangla", Sangsad TV
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFKPigBZGKvPlX0FzOWFAs_T_okxGozN1sw&s" group-title="Bangla", ATN Bangla
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+https://tvsen5.aynascope.net/atnbangla/tracks-v1a1/mono.ts.m3u8?e=1775022294&token=43055b202faab3b0a64466a3a37e0d07&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/1/channel-i-logo-png_seeklogo-532023.png" group-title="Bangla", Channel i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1280px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla", NTV
@@ -25,7 +26,7 @@ https://tvsen6.aynascope.net/deshtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Banglavision.svg" group-title="Bangla", Bangla Vision
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmvSsoq-TCsc5BU0zoDCbrXy4N38XdySykpg&s" group-title="Bangla", Masranga TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Channel9_bd.svg" group-title="Bangla", Chanel 9
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS70-eW0lN-3tPgvkgHb1QrHpQQJDPOQoFRQ&s" group-title="Bangla", Gazi TV
