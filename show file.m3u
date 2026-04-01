@@ -16,21 +16,21 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1280px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla", NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM8MwgiUc_CudcMcFM6tyTpXEp0eu4zqLIZA&s" group-title="Bangla", RTV
-https://tvsen5.aynascope.net/RtvHD/tracks-v1a1/mono.ts.m3u8
+https://tvsen5.aynascope.net/RtvHD/tracks-v1a1/mono.ts.m3u8?e=1775022801&token=7bddf3bd99a106f42fef7da52db4c19b&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg" group-title="Bangla", Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMuo3XyLBozwipcIU31qQAA2Hx0mgQTaLTHg&s" group-title="Bangla", Desh TV
-https://tvsen6.aynascope.net/deshtv/tracks-v1a1/mono.ts.m3u8
+https://tvsen6.aynascope.net/deshtv/tracks-v1a1/mono.ts.m3u8?e=1775022745&token=32883b04853c630bfd08be76e6bcd5ad&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTHMmNXV0L0auqyGnrhGe8l8hLfrv0QmJGQ&s" group-title="Bangla", Boishakhi TV
-
+https://tvsen6.aynascope.net/boishakhitv/tracks-v1a1/mono.ts.m3u8?e=1775023138&token=b6f0f391f186d9becb0abd574906b0db&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Banglavision.svg" group-title="Bangla", Bangla Vision
-
+https://tvsen5.aynascope.net/banglavision/tracks-v1a1/mono.ts.m3u8?e=1775023237&token=5d665d39d9921b1507cfd248ffeaf8cf&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmvSsoq-TCsc5BU0zoDCbrXy4N38XdySykpg&s" group-title="Bangla", Masranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Channel9_bd.svg" group-title="Bangla", Chanel 9
-
+https://tvsen6.aynascope.net/channel9/tracks-v1a1/mono.ts.m3u8?e=1775023286&token=c3cc55a9a9821d3441061328af03b75a&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS70-eW0lN-3tPgvkgHb1QrHpQQJDPOQoFRQ&s" group-title="Bangla", Gazi TV
-
+https://tvsen5.aynascope.net/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8?e=1775023339&token=8d539cfcb0f8e67e7d909a21ba5faa9f&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
