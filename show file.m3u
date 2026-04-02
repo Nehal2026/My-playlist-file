@@ -16,7 +16,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/1/channel-i-logo-png_seeklogo-532023.png" group-title="Bangla", Channel i
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1280px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla", NTV
-https://tvsen5.aynascope.net/ntvbd/index.m3u8?e=1775107095&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=761e8c51f9431479964a1c359149012f
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM8MwgiUc_CudcMcFM6tyTpXEp0eu4zqLIZA&s" group-title="Bangla", RTV
 https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1775107097&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=35160793070e8352e898786457a14746
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg" group-title="Bangla", Ekushey TV
