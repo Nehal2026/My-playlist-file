@@ -78,7 +78,7 @@ https://tvsen6.aynascope.net/bijoytv/index.m3u8?e=1775107110&u=78be6644-0a65-48e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg/330px-Logo_of_My_TV_%28Bangladesh%29.svg.png" group-title="Bangla", My TV
 https://tvsen6.aynascope.net/mytv/index.m3u8?e=1775107108&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c9427ef01208b8cd0a2510b8217827f1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVVn9ALbFhHSBQzXN-ptRNAmfWrwOV_dpK_Q&s" group-title="Bangla", Duronto TV
-https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1775107105&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6fa97c49a849c635cf35f56c4138689d
+https://playztv-apps.pages.dev/duronto-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTB5hUXypAkj_7J_x5GxeMsnwFdH8hE0vLNg&s" group-title="Bangla", Insaf TV
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0AHiQfFmaqJ-CvLyvHBVZZ8DZj2RMlKfaEA&s" group-title="Bangla", Islamic TV
