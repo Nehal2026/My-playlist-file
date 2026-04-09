@@ -62,13 +62,13 @@ http://198.195.239.50:8095/nagorik/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvsen6.aynascope.net/satv/index.m3u8?e=1775107104&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5d52765979ed72bafdfb6c9857faeb2d" group-title="Bangla", Ananda TV
 https://playztv-apps.pages.dev/ananda-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp_RBPU1oRmxPvW6JubzuBZYZfgieLOEzAFg&s" group-title="Bangla", Gaan Bangla
-
+https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVqD7TdaRT96-e7sp1S-SphXZNrBia7fQPg&s" group-title="Bangla", Nexus TV
 http://sm-monirul.top/AyNa/play.php?id=e64e1c11-1167-43a1-9e0f-995cbf6f7ff9&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxJkU38yRpKen1nYpfH7p8MQuSRoRZ-wB7nA&s" group-title="Bangla", Global TV
 http://sm-monirul.top/AyNa/play.php?id=0ac6af3d-acce-4d9d-9ce5-32d4b53f9326&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Ekhon_Logo.svg/1280px-Ekhon_Logo.svg.png" group-title="Bangla", Ekhon TV
-https://tvsen6.aynascope.net/ekhontv/index.m3u8?e=1775107121&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=fe2023f42562db8c7579ef3dcd455a78
+http://sm-monirul.top/AyNa/play.php?id=0579659b-2854-40d1-ad6a-69b70641ad17&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Bangla", Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Channel_S_Bangladesh_Logo.png/250px-Channel_S_Bangladesh_Logo.png" group-title="Bangla", Channel S
@@ -96,9 +96,9 @@ https://playztv-apps.pages.dev/star-jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="Bangla", Colors Bangla
 http://103.229.254.25:7001/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI059NSvEAlBp_R_QMpMeqzihli8ph5oQjgw&s" group-title="Bangla", Sony Aath
+http://180.94.28.28:8097//SONY-AATH/index.fmp4.m3u8?token=46d2f60b9d350c902de2c25d54c6e31a4c7991ef-1bc1a1f17c87683fde783797c614d3e3-1775738828-1775735228&remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/250?cb=20240320100114" group-title="Bangla", Jalsha Movies
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOMeA--oDs9z3OZnonebWzs7-8Cd77AWyaQA&s" group-title="Bangla", Zee Bangla movie
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
