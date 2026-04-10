@@ -90,7 +90,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcVG8U34mqlp4da-CpycCGcW_PfmgzlrxIYw&s" group-title="Sports", T Sports
 https://playztv-apps.pages.dev/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg" group-title="Bangla", Zee Bangla
-http://sm-monirul.top/AyNa/play.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54&e=.m3u8
+https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1775835007&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b79697fbbe6d0e2c533a4d08b5014bbf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/330px-Star_Jalsha_logo_2023.png" group-title="Bangla", Star Jalsa
 https://playztv-apps.pages.dev/star-jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="Bangla", Colors Bangla
@@ -106,3 +106,4 @@ https://sm-monirul.top/Toffee/live.php?id=zee_bangla_cinema&e=.m3u8
 #EXTINF:-1 tvg-logo="//upload.wikimedia.org/wikipedia/bn/a/a1/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png?_=20141123055418" group-title="Bangla", Ruposhi Bangla
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Aakash_Aath_logo_%282013%29.png/revision/latest?cb=20210610095953" group-title="Bangla", Aakash Aath
+http://sm-monirul.top/AyNa/play.php?id=ed1ad924-f9f2-4302-97df-987bffb2b32e&e=.m3u8
