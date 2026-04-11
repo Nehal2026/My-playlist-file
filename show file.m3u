@@ -90,7 +90,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcVG8U34mqlp4da-CpycCGcW_PfmgzlrxIYw&s" group-title="Sports", T Sports
 https://playztv-apps.pages.dev/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg" group-title="Bangla", Zee Bangla
-https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1775835007&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b79697fbbe6d0e2c533a4d08b5014bbf
+http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8?token=57b678d45354138201f26014ef816a6ec69d6ad8-25adfa3aed9664797575d429f4ebb725-1775921276-1775917676&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/330px-Star_Jalsha_logo_2023.png" group-title="Bangla", Star Jalsa
 https://playztv-apps.pages.dev/star-jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="Bangla", Colors Bangla
