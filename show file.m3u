@@ -54,7 +54,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/HL5ttqw9g34gVINtqq3rCoAyofPFsJg98YkuNz-GB0V8J28HyqIpkjW76AcYNFBol6Nn6zjmDw=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla", SA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/ec/%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/250px-%E0%A6%8F%E0%A6%B6%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bangla", Asian TV
-https://tvsen6.aynascope.net/asiantv/tracks-v1a1/mono.ts.m3u8?e=1775024773&token=97025c99021176552618fd498023aa10&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
+http://sm-monirul.top/AyNa/play.php?id=4d629b90-cfc2-4426-9eef-62b879efdb02&e=.m3u8
 #EXTINF:-1 tvg-logo="https://jcwsw2vt33.gpcdn.net/uploads/images/2022/07/25/logos_1384ea456744d5914ba331fa72df78c8_goplay_deepto_logo_final_white.svg" group-title="Bangla", Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Logo_of_Nagorik_TV.svg" group-title="Bangla", Nagorik TV
@@ -89,53 +89,53 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcVG8U34mqlp4da-CpycCGcW_PfmgzlrxIYw&s" group-title="Sports", T Sports
 https://playztv-apps.pages.dev/tsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg" group-title="Bangla", Zee Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg" group-title="Indian Bangla", Zee Bangla
 http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8?token=57b678d45354138201f26014ef816a6ec69d6ad8-25adfa3aed9664797575d429f4ebb725-1775921276-1775917676&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/330px-Star_Jalsha_logo_2023.png" group-title="Bangla", Star Jalsa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/330px-Star_Jalsha_logo_2023.png" group-title="Indian Bangla", Star Jalsa
 https://playztv-apps.pages.dev/star-jalsha/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="Bangla", Colors Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="Indian Bangla", Colors Bangla
 http://103.229.254.25:7001/play/a0ds/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI059NSvEAlBp_R_QMpMeqzihli8ph5oQjgw&s" group-title="Bangla", Sony Aath
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI059NSvEAlBp_R_QMpMeqzihli8ph5oQjgw&s" group-title="Indian Bangla", Sony Aath
 http://180.94.28.28:8097//SONY-AATH/index.fmp4.m3u8?token=46d2f60b9d350c902de2c25d54c6e31a4c7991ef-1bc1a1f17c87683fde783797c614d3e3-1775738828-1775735228&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/250?cb=20240320100114" group-title="Bangla", Jalsha Movies
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/250?cb=20240320100114" group-title="Indian Bangla", Jalsha Movies
 http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8?token=1661040273ba7ef297f3b390dc5a05f6574e4169-b8fc00352f207754dd9ef126becdd1c5-1775780964-1775777364&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOMeA--oDs9z3OZnonebWzs7-8Cd77AWyaQA&s" group-title="Bangla", Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOMeA--oDs9z3OZnonebWzs7-8Cd77AWyaQA&s" group-title="Indian Bangla", Zee Bangla Cinema
 https://sm-monirul.top/Toffee/live.php?id=zee_bangla_cinema&e=.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", Star Jalsha Josh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Indian Bangla", Star Jalsha Josh
 
-#EXTINF:-1 tvg-logo="//upload.wikimedia.org/wikipedia/bn/a/a1/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png?_=20141123055418" group-title="Bangla", Ruposhi Bangla
+#EXTINF:-1 tvg-logo="//upload.wikimedia.org/wikipedia/bn/a/a1/%E0%A6%B0%E0%A7%82%E0%A6%AA%E0%A6%B8%E0%A7%80_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png?_=20141123055418" group-title="Indian Bangla", Ruposhi Bangla
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Aakash_Aath_logo_%282013%29.png/revision/latest?cb=20210610095953" group-title="Bangla", Aakash Aath
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Aakash_Aath_logo_%282013%29.png/revision/latest?cb=20210610095953" group-title="Indian Bangla", Aakash Aath
 http://sm-monirul.top/AyNa/play.php?id=ed1ad924-f9f2-4302-97df-987bffb2b32e&e=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Khushboo-Bangla.png" group-title="Bangla", Khushboo Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Khushboo-Bangla.png" group-title="Indian Bangla", Khushboo Bangla
 http://sm-monirul.top/AyNa/play.php?id=dc4a5da2-9423-4c3a-ac8e-62086ff7b6f1&e=.m3u8
 #EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2024/08/58-s.webp" group-title="Bangla", Sangeet Bangla
 http://sm-monirul.top/AyNa/play.php?id=75412270-ce20-4376-8e7f-21fc76f84ed4&e=.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kUVgsElgaFpQZNYILWQ0HLa-MAmbEjWNRBRqKms5qML2Q=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla", Enter 10 Bangla
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kUVgsElgaFpQZNYILWQ0HLa-MAmbEjWNRBRqKms5qML2Q=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla", Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbn5LVShQZ7RGzER4TmhDCIglJErjEqL8IhugziZKVA&s&ec=121630468" group-title="Bangla", DD Bangla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbn5LVShQZ7RGzER4TmhDCIglJErjEqL8IhugziZKVA&s&ec=121630468" group-title="Indian Bangla", DD Bangla
 http://sm-monirul.top/AyNa/play.php?id=8df44874-5511-4c78-a854-8ab6dd6861e5&e=.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_o5WSrbbEY8Utt8UTW7HGrkWpsB3RFdA7I_v6CugqrA&s&ec=121630468" group-title="Bangla", News 18 Bangla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_o5WSrbbEY8Utt8UTW7HGrkWpsB3RFdA7I_v6CugqrA&s&ec=121630468" group-title="Indian Bangla", News 18 Bangla
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzM8KcM4s0KQII8cAmZiqxKQ8VJNWwLp3ldeK_-5ujIg&s&ec=121630468" group-title="Bangla", Star Plus
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzM8KcM4s0KQII8cAmZiqxKQ8VJNWwLp3ldeK_-5ujIg&s&ec=121630468" group-title="Indian Hindi", Star Plus
 http://sm-monirul.top/AyNa/play.php?id=74524e79-5f3a-4824-8202-b9e346acb9a4&e=.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPbszhNuHnVKOD6OhoL9SoTPYc2sXKRHTYfQnLEJnfDg&s&ec=121630468" group-title="Bangla", Sony TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPbszhNuHnVKOD6OhoL9SoTPYc2sXKRHTYfQnLEJnfDg&s&ec=121630468" group-title="Indian Hindi", Sony TV
 http://sm-monirul.top/AyNa/play.php?id=0b0235db-e5b4-48d9-95bc-30a7e3228947&e=.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECsfklKhMvwqVD4OOJucklPqSpv6sDybXX7TiChKi-A&s&ec=121630468" group-title="Bangla", Zee tv
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECsfklKhMvwqVD4OOJucklPqSpv6sDybXX7TiChKi-A&s&ec=121630468" group-title="Indian Hindi", Zee tv
 https://sm-monirul.top/Toffee/live.php?id=zee_tv_hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1qkbRgPHAAP22VUk5MUuTRf4_BTdni5JomzGElo19w&s&ec=121630468" group-title="Bangla", Sony SAB
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1qkbRgPHAAP22VUk5MUuTRf4_BTdni5JomzGElo19w&s&ec=121630468" group-title="Indian Hindi", Sony SAB
 https://sm-monirul.top/Toffee/live.php?id=sonysab_hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtLKfCarYeEfYIxx-ahZs3kUgpCWp69jnSGpR_9SQ9Nw&s&ec=121630468" group-title="Bangla", Sony Max
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtLKfCarYeEfYIxx-ahZs3kUgpCWp69jnSGpR_9SQ9Nw&s&ec=121630468" group-title="Indian Hindi", Sony Max
 http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8?token=be298dc3066145d6bfd63bb6103b8fe6ba7cdc9b-655ea71eae51e48ad0a130af96189ea8-1775903462-1775899862&remote=no_check_ip
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Bangla", Zee Cinema
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Indian Hindi", Zee Cinema
 https://sm-monirul.top/Toffee/live.php?id=zee_cinema_hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mTT5nEwZ0zG4BX8rvd3RecKSUV5LMVEkHNkBvoLMaLQA=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla", B4U Movies
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mTT5nEwZ0zG4BX8rvd3RecKSUV5LMVEkHNkBvoLMaLQA=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Hindi", B4U Movies
 https://sm-monirul.top/Toffee/live.php?id=b4u_movies&e=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%26TV_2025.svg/330px-%26TV_2025.svg.png" group-title="Bangla", &TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%26TV_2025.svg/330px-%26TV_2025.svg.png" group-title="Indian Hindi", &TV
 https://sm-monirul.top/Toffee/live.php?id=and_tv_hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Zee_Bollywood_2025.svg" group-title="Bangla", Zee Bollywood
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Zee_Bollywood_2025.svg" group-title="Indian Hindi", Zee Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg" group-title="Bangla", Goldmines
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg" group-title="Indian Hindi", Goldmines
 http://sm-monirul.top/AyNa/play.php?id=c7f57cda-5a87-48c5-a758-4273db0864d2&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
 
