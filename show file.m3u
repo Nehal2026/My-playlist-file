@@ -115,8 +115,8 @@ http://sm-monirul.top/AyNa/play.php?id=75412270-ce20-4376-8e7f-21fc76f84ed4&e=.m
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbn5LVShQZ7RGzER4TmhDCIglJErjEqL8IhugziZKVA&s&ec=121630468" group-title="Indian Bangla", DD Bangla
 http://sm-monirul.top/AyNa/play.php?id=8df44874-5511-4c78-a854-8ab6dd6861e5&e=.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_o5WSrbbEY8Utt8UTW7HGrkWpsB3RFdA7I_v6CugqrA&s&ec=121630468" group-title="Indian Bangla", News 18 Bangla
-
+#EXTINF:-1 tvg-logo="src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhNVIiGPTFjjZy5APodIabP4ca91Hp0U_VcNmzYUpIA&s&ec=121630468" group-title="Indian Bangla", R Plus News
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzM8KcM4s0KQII8cAmZiqxKQ8VJNWwLp3ldeK_-5ujIg&s&ec=121630468" group-title="Indian Hindi", Star Plus
 http://sm-monirul.top/AyNa/play.php?id=74524e79-5f3a-4824-8202-b9e346acb9a4&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPbszhNuHnVKOD6OhoL9SoTPYc2sXKRHTYfQnLEJnfDg&s&ec=121630468" group-title="Indian Hindi", Sony TV
@@ -129,6 +129,8 @@ https://sm-monirul.top/Toffee/live.php?id=sonysab_hd&e=.m3u8
 http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8?token=be298dc3066145d6bfd63bb6103b8fe6ba7cdc9b-655ea71eae51e48ad0a130af96189ea8-1775903462-1775899862&remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Indian Hindi", Zee Cinema
 https://sm-monirul.top/Toffee/live.php?id=zee_cinema_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Indian Hindi", Shemaroo TV
+http://sm-monirul.top/AyNa/play.php?id=2571fc63-ed1e-4107-b92d-bd4335d601dc&e=.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mTT5nEwZ0zG4BX8rvd3RecKSUV5LMVEkHNkBvoLMaLQA=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Hindi", B4U Movies
 https://sm-monirul.top/Toffee/live.php?id=b4u_movies&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%26TV_2025.svg/330px-%26TV_2025.svg.png" group-title="Indian Hindi", &TV
@@ -143,16 +145,16 @@ http://sm-monirul.top/AyNa/play.php?id=f064e069-8861-43d5-ac79-828b029a50a1&e=.m
 http://sm-monirul.top/AyNa/play.php?id=3ac46078-2bf0-4998-a021-37b459e09fba&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtx36ASmab8Tmsxu-XfH2yRyOiWJNtz_oJQ&s" group-title="Sports", Sony Sports Ten 1
 https://sm-monirul.top/Toffee/live.php?id=sony_sports_1_hd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
-
+#EXTINF:-1 tvg-logo="src="https://medianet.mv/media/channel/187x0-icon.png"" group-title="Sports", Sony Sports Ten 2
+https://sm-monirul.top/Toffee/live.php?id=sony_sports_2_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png" group-title="Sports", Sony Sports Ten 5
+https://sm-monirul.top/Toffee/live.php?id=sony_sports_5_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png" group-title="Sports", PTV Sports
+http://sm-monirul.top/AyNa/play.php?id=eacf6c3f-0773-4bc3-a03a-cfee09f10348&e=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/960px-Eurosport_logo_%282001-2011%29.svg.png" group-title="Sports", Euro Sports
+https://sm-monirul.top/Toffee/live.php?id=euro_sports_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/1280px-DD_Sports_logo.svg.png" group-title="Sports", DD Sports
+http://sm-monirul.top/AyNa/play.php?id=3b238911-d385-406a-b936-07550f30a4f3&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
