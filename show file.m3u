@@ -121,6 +121,8 @@ http://sm-monirul.top/AyNa/play.php?id=8df44874-5511-4c78-a854-8ab6dd6861e5&e=.m
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzM8KcM4s0KQII8cAmZiqxKQ8VJNWwLp3ldeK_-5ujIg&s&ec=121630468" group-title="Indian Hindi", Star Plus
 http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcIvnJM5mfnt73cpijdhyNwTuFXiDEOn12sQ&s" group-title="Indian Hindi", Star Gold
+http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPbszhNuHnVKOD6OhoL9SoTPYc2sXKRHTYfQnLEJnfDg&s&ec=121630468" group-title="Indian Hindi", Sony TV
 http://sm-monirul.top/AyNa/play.php?id=0b0235db-e5b4-48d9-95bc-30a7e3228947&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECsfklKhMvwqVD4OOJucklPqSpv6sDybXX7TiChKi-A&s&ec=121630468" group-title="Indian Hindi", Zee tv
@@ -165,8 +167,8 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.jpg" group-title="Bangla", Discovery Bangla
 http://180.94.28.28:8097/DISCOVERY-BANGLA/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/3840px-National-Geographic-Logo.svg.png" group-title="Bangla", National Geography
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/3840px-National-Geographic-Logo.svg.png" group-title="Bangla", National Geographic
+http://198.195.239.50:8095/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv6o3_ALsbRaciYskvON51Ffy9EDjjo0J0VA&s" group-title="Bangla", Animal Panet
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
