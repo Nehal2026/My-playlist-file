@@ -77,11 +77,11 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg/330px-Logo_of_My_TV_%28Bangladesh%29.svg.png" group-title="Bangla", My TV
 https://playztv-apps.pages.dev/my-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVVn9ALbFhHSBQzXN-ptRNAmfWrwOV_dpK_Q&s" group-title="Bangla", Duronto TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVVn9ALbFhHSBQzXN-ptRNAmfWrwOV_dpK_Q&s" group-title="Kids", Duronto TV
 https://playztv-apps.pages.dev/duronto-tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTB5hUXypAkj_7J_x5GxeMsnwFdH8hE0vLNg&s" group-title="Bangla", Insaf TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTB5hUXypAkj_7J_x5GxeMsnwFdH8hE0vLNg&s" group-title="Islamic", Insaf TV
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0AHiQfFmaqJ-CvLyvHBVZZ8DZj2RMlKfaEA&s" group-title="Bangla", Islamic TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0AHiQfFmaqJ-CvLyvHBVZZ8DZj2RMlKfaEA&s" group-title="Islamic", Islamic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp08tEvADzi9KN7dIUuWaFsO9YTGpzWIXPlg&s" group-title="Bangla", Ananda Bangla
 
@@ -124,13 +124,13 @@ http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcIvnJM5mfnt73cpijdhyNwTuFXiDEOn12sQ&s" group-title="Indian Hindi", Star Gold
 http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPbszhNuHnVKOD6OhoL9SoTPYc2sXKRHTYfQnLEJnfDg&s&ec=121630468" group-title="Indian Hindi", Sony TV
-http://sm-monirul.top/AyNa/play.php?id=0b0235db-e5b4-48d9-95bc-30a7e3228947&e=.m3u8
+http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECsfklKhMvwqVD4OOJucklPqSpv6sDybXX7TiChKi-A&s&ec=121630468" group-title="Indian Hindi", Zee tv
 https://sm-monirul.top/Toffee/live.php?id=zee_tv_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1qkbRgPHAAP22VUk5MUuTRf4_BTdni5JomzGElo19w&s&ec=121630468" group-title="Indian Hindi", Sony SAB
 https://sm-monirul.top/Toffee/live.php?id=sonysab_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtLKfCarYeEfYIxx-ahZs3kUgpCWp69jnSGpR_9SQ9Nw&s&ec=121630468" group-title="Indian Hindi", Sony Max
-http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8?token=be298dc3066145d6bfd63bb6103b8fe6ba7cdc9b-655ea71eae51e48ad0a130af96189ea8-1775903462-1775899862&remote=no_check_ip
+http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Indian Hindi", Zee Cinema
 https://sm-monirul.top/Toffee/live.php?id=zee_cinema_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT2X8t1W-TbmInUNrS9akTrFbMK5nbJhV6ihqpSzbOiw&s&ec=121630468" group-title="Indian Hindi", Shemaroo TV
@@ -159,19 +159,20 @@ http://sm-monirul.top/AyNa/play.php?id=eacf6c3f-0773-4bc3-a03a-cfee09f10348&e=.m
 https://sm-monirul.top/Toffee/live.php?id=euro_sports_hd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/1280px-DD_Sports_logo.svg.png" group-title="Sports", DD Sports
 http://sm-monirul.top/AyNa/play.php?id=3b238911-d385-406a-b936-07550f30a4f3&e=.m3u8
-#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/BBC_News/BBC_News-Logo.wine.svg" group-title="Bangla", BBC News
+#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/BBC_News/BBC_News-Logo.wine.svg" group-title="International", BBC News
 https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" group-title="Bangla", CNN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" group-title="International", CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEisdJEoLt3HzEEjlWMJ5wFG3s5Rvgz3f-PXz-TNEkag&s&ec=121630468" group-title="Bangla", Al Jazeera
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEisdJEoLt3HzEEjlWMJ5wFG3s5Rvgz3f-PXz-TNEkag&s&ec=121630468" group-title="International", Al Jazeera
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.jpg" group-title="Bangla", Discovery Bangla
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.jpg" group-title="International", Discovery Bangla
 http://180.94.28.28:8097/DISCOVERY-BANGLA/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/3840px-National-Geographic-Logo.svg.png" group-title="Bangla", National Geographic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/3840px-National-Geographic-Logo.svg.png" group-title="International", National Geographic
 http://198.195.239.50:8095/NationalGeographic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv6o3_ALsbRaciYskvON51Ffy9EDjjo0J0VA&s" group-title="Bangla", Animal Panet
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv6o3_ALsbRaciYskvON51Ffy9EDjjo0J0VA&s" group-title="International", Animal Panet
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
