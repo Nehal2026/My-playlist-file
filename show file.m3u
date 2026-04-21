@@ -22,7 +22,7 @@ https://playztv-apps.pages.dev/rtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg" group-title="Bangla", Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMuo3XyLBozwipcIU31qQAA2Hx0mgQTaLTHg&s" group-title="Bangla", Desh TV
-https://playztv-apps.pages.dev/desh-tv/index.m3u8
+https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTTHMmNXV0L0auqyGnrhGe8l8hLfrv0QmJGQ&s" group-title="Bangla", Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Banglavision.svg" group-title="Bangla", Bangla Vision
@@ -34,7 +34,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS70-eW0lN-3tPgvkgHb1QrHpQQJDPOQoFRQ&s" group-title="Bangla", Gazi TV
 https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUjPqZOXSo3rHDKM8_Dc5XVL5SSv5q0h5vig&s" group-title="Bangla", Mohona TV
-https://playztv-apps.pages.dev/mohona-tv/index.m3u8
+http://103.229.254.25:7001/play/a05t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/330px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png?_=20250102083708" group-title="Bangla", Somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Independent_Television_Logo.svg" group-title="Bangla", Independent TV
@@ -96,9 +96,9 @@ http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="Indian Bangla", Colors Bangla
 http://103.229.254.25:7001/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI059NSvEAlBp_R_QMpMeqzihli8ph5oQjgw&s" group-title="Indian Bangla", Sony Aath
-http://180.94.28.28:8097//SONY-AATH/index.fmp4.m3u8?token=46d2f60b9d350c902de2c25d54c6e31a4c7991ef-1bc1a1f17c87683fde783797c614d3e3-1775738828-1775735228&remote=no_check_ip
+http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/250?cb=20240320100114" group-title="Indian Bangla", Jalsha Movies
-http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8?token=1661040273ba7ef297f3b390dc5a05f6574e4169-b8fc00352f207754dd9ef126becdd1c5-1775780964-1775777364&remote=no_check_ip
+http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOMeA--oDs9z3OZnonebWzs7-8Cd77AWyaQA&s" group-title="Indian Bangla", Zee Bangla Cinema
 https://sm-monirul.top/Toffee/live.php?id=zee_bangla_cinema&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Indian Bangla", Star Jalsha Josh
