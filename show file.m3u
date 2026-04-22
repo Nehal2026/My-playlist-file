@@ -57,6 +57,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 http://sm-monirul.top/AyNa/play.php?id=4d629b90-cfc2-4426-9eef-62b879efdb02&e=.m3u8
 #EXTINF:-1 tvg-logo="https://jcwsw2vt33.gpcdn.net/uploads/images/2022/07/25/logos_1384ea456744d5914ba331fa72df78c8_goplay_deepto_logo_final_white.svg" group-title="Bangla", Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZeTFsW7k_u9XoVCxw0BqONeRzgS8we1StIw&s" group-title="Bangla", Bangla TV
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Logo_of_Nagorik_TV.svg" group-title="Bangla", Nagorik TV
 http://198.195.239.50:8095/nagorik/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvsen6.aynascope.net/satv/index.m3u8?e=1775107104&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5d52765979ed72bafdfb6c9857faeb2d" group-title="Bangla", Ananda TV
@@ -181,6 +183,8 @@ http://103.229.254.25:7001/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2PCmTqPg2kY7Ps9z_ycmy2QknlNB0l5ZnOw&s" group-title="Kids", Nick
 http://103.180.212.191:3500/live/1341.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png/revision/latest/scale-to-width-down/300?cb=20250606121016" group-title="Kids", Sonic
+http://103.180.212.191:3500/live/1345.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Rongeen_TV.jpeg/revision/latest?cb=20191215110016" group-title="Kids", Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Kids", Cartoon Network
