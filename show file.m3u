@@ -60,7 +60,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZeTFsW7k_u9XoVCxw0BqONeRzgS8we1StIw&s" group-title="Bangla", Bangla TV
 http://sm-monirul.top/AyNa/play.php?id=addb7014-1d2e-41d8-982d-7cafbdc48770&e=.m3u8
 #EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg" group-title="Bangla", SRK TV
-
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/Logo_of_Nagorik_TV.svg" group-title="Bangla", Nagorik TV
 http://198.195.239.50:8095/nagorik/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvsen6.aynascope.net/satv/index.m3u8?e=1775107104&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5d52765979ed72bafdfb6c9857faeb2d" group-title="Bangla", Ananda TV
@@ -191,6 +191,8 @@ http://103.180.212.191:3500/live/1345.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Kids", Cartoon Network
 http://198.195.239.50:8095/CartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/discovery-kids-1.svg" group-title="Kids", Discovery Kids
+http://198.195.239.50:8095/DiscoveryKids/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/3840px-POGO-logo.svg.png" group-title="Kids", Pogo
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1280px-2014_Disney_Channel_logo.svg.png" group-title="Kids", Disney Channel
