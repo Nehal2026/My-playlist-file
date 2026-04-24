@@ -96,7 +96,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcVG8U34mqlp4da-CpycCGcW_PfmgzlrxIYw&s" group-title="Sports", T Sports
 http://198.195.239.50:8095/Tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg" group-title="Indian Bangla", Zee Bangla
-https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+http://103.49.70.113:5001/live/625.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/330px-Star_Jalsha_logo_2023.png" group-title="Indian Bangla", Star Jalsa
 http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="Indian Bangla", Colors Bangla
@@ -118,7 +118,7 @@ http://sm-monirul.top/AyNa/play.php?id=dc4a5da2-9423-4c3a-ac8e-62086ff7b6f1&e=.m
 #EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2024/08/58-s.webp" group-title="Bangla", Sangeet Bangla
 http://sm-monirul.top/AyNa/play.php?id=75412270-ce20-4376-8e7f-21fc76f84ed4&e=.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQon3BJm2L-9VZPTKAoYo0OdLfT0Pqz8wFg&s" group-title="Indian Bangla", Sun Bangla
-http://180.94.28.28:8097/SUN-BANGLA/index.fmp4.m3u8
+http://103.49.70.113:5001/live/1669.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kUVgsElgaFpQZNYILWQ0HLa-MAmbEjWNRBRqKms5qML2Q=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla", Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbn5LVShQZ7RGzER4TmhDCIglJErjEqL8IhugziZKVA&s&ec=121630468" group-title="Indian Bangla", DD Bangla
