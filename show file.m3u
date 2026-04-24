@@ -149,6 +149,8 @@ http://103.157.248.140:8000/play/a01e/index.m3u8
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg" group-title="Indian Hindi", Goldmines
 http://sm-monirul.top/AyNa/play.php?id=c7f57cda-5a87-48c5-a758-4273db0864d2&e=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png/revision/latest?cb=20240319101022" group-title="Indian Hindi", Food Food
+https://mumt03.tangotv.in/FOODFOOD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0y5b5fntkMFW5n5IQZPMMtC4_2uzEgmWaSdlJr8Ystg&s&ec=121630468" group-title="Sports", Star Sports 1
 http://103.253.18.58:8000/play/a00m
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3jwe6t1NM29BfFzccILmmX_KUjoTkCuYwE5LvH30ng&s&ec=121630468" group-title="Sports", Star Sports 2
