@@ -97,7 +97,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 http://198.195.239.50:8095/Tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg" group-title="Indian Bangla", Zee Bangla
 http://103.49.70.113:5001/live/625.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/330px-Star_Jalsha_logo_2023.png" group-title="Indian Bangla", Star Jalsa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/330px-Star_Jalsha_logo_2023.png" group-title="Indian Bangla", Star Jalsha
 http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="Indian Bangla", Colors Bangla
 http://103.229.254.25:7001/play/a0ds/index.m3u8
@@ -150,7 +150,7 @@ http://103.157.248.140:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Zee_Bollywood_2025.svg" group-title="Indian Hindi", Zee Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg" group-title="Indian Hindi", Goldmines
-http://sm-monirul.top/AyNa/play.php?id=c7f57cda-5a87-48c5-a758-4273db0864d2&e=.m3u8
+https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png/revision/latest?cb=20240319101022" group-title="Indian Hindi", Food Food
 https://mumt03.tangotv.in/FOODFOOD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0y5b5fntkMFW5n5IQZPMMtC4_2uzEgmWaSdlJr8Ystg&s&ec=121630468" group-title="Sports", Star Sports 1
