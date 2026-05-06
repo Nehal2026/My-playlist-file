@@ -174,7 +174,7 @@ http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/1280px-DD_Sports_logo.svg.png" group-title="Sports", DD Sports
 https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/BBC_News/BBC_News-Logo.wine.svg" group-title="International", BBC News
-https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" group-title="International", CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEisdJEoLt3HzEEjlWMJ5wFG3s5Rvgz3f-PXz-TNEkag&s&ec=121630468" group-title="International", Al Jazeera
