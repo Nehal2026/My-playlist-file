@@ -190,7 +190,7 @@ http://103.229.254.25:7001/play/a02z/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/960px-Discovery_Science_-_Logo_2012.svg.png" group-title="International", Discovery Science
 http://103.49.70.113:5001/live/3453.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids", Sony Yay
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonyyay_576/sonyyay_576.m3u8?bitrate=1000000&channel=sonyyay_576&gp_id=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2PCmTqPg2kY7Ps9z_ycmy2QknlNB0l5ZnOw&s" group-title="Kids", Nick
 http://103.180.212.191:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png/revision/latest/scale-to-width-down/300?cb=20250606121016" group-title="Kids", Sonic
