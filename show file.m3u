@@ -116,7 +116,7 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2024/08/58-s.webp" group-title="Bangla", Sangeet Bangla
 https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQon3BJm2L-9VZPTKAoYo0OdLfT0Pqz8wFg&s" group-title="Indian Bangla", Sun Bangla
-http://103.49.70.113:5001/live/1669.m3u8
+http://103.159.180.34:5001/live/1669.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kUVgsElgaFpQZNYILWQ0HLa-MAmbEjWNRBRqKms5qML2Q=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla", Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbn5LVShQZ7RGzER4TmhDCIglJErjEqL8IhugziZKVA&s&ec=121630468" group-title="Indian Bangla", DD Bangla
