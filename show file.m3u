@@ -148,7 +148,7 @@ http://103.157.248.140:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT2X8t1W-TbmInUNrS9akTrFbMK5nbJhV6ihqpSzbOiw&s&ec=121630468" group-title="Indian Hindi", Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mTT5nEwZ0zG4BX8rvd3RecKSUV5LMVEkHNkBvoLMaLQA=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Hindi", B4U Movies
-
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%26TV_2025.svg/330px-%26TV_2025.svg.png" group-title="Indian Hindi", &TV
 http://103.157.248.140:8000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Zee_Bollywood_2025.svg" group-title="Indian Hindi", Zee Bollywood
