@@ -180,7 +180,7 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEisdJEoLt3HzEEjlWMJ5wFG3s5Rvgz3f-PXz-TNEkag&s&ec=121630468" group-title="International", Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.jpg" group-title="International", Discovery Bangla
-http://103.49.70.113:5001/live/573.m3u8
+http://103.180.212.191:3500/live/3428.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/3840px-National-Geographic-Logo.svg.png" group-title="International", National Geographic
 http://198.195.239.50:8095/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv6o3_ALsbRaciYskvON51Ffy9EDjjo0J0VA&s" group-title="International", Animal Panet
