@@ -94,7 +94,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcVG8U34mqlp4da-CpycCGcW_PfmgzlrxIYw&s" group-title="Sports", T Sports
 http://198.195.239.50:8095/Tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg" group-title="Indian Bangla", Zee Bangla
-http://premimum.online:80/live/jen12345/jen54321/98881.ts
+https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/330px-Star_Jalsha_logo_2023.png" group-title="Indian Bangla", Star Jalsha
 https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="Indian Bangla", Colors Bangla
@@ -168,7 +168,7 @@ http://198.195.239.50:8095/SonyTenSports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png" group-title="Sports", Sony Sports 5
 http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png" group-title="Sports", PTV Sports
-http://sm-monirul.top/AyNa/play.php?id=eacf6c3f-0773-4bc3-a03a-cfee09f10348&e=.m3u8
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/960px-Eurosport_logo_%282001-2011%29.svg.png" group-title="Sports", Euro Sports
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/DD_Sports_logo.svg/1280px-DD_Sports_logo.svg.png" group-title="Sports", DD Sports
