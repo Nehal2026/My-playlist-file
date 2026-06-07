@@ -164,7 +164,7 @@ http://110.39.27.47:8001/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtx36ASmab8Tmsxu-XfH2yRyOiWJNtz_oJQ&s" group-title="Sports", Sony Sports 1
 https://stream.ottplus.bd/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="src="https://medianet.mv/media/channel/187x0-icon.png"" group-title="Sports", Sony Sports 2
-http://198.195.239.50:8095/SonyTenSports2/tracks-v1a1/mono.m3u8
+http://103.157.248.140:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png" group-title="Sports", Sony Sports 5
 https://stream.ottplus.bd/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png" group-title="Sports", PTV Sports
