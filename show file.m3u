@@ -98,7 +98,7 @@ http://103.204.43.87:8080/live/1/1/241.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/330px-Star_Jalsha_logo_2023.png" group-title="Indian Bangla", Star Jalsha
 https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="Indian Bangla", Colors Bangla
-https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+https://tvsen6.aynaott.com/ColorsBangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI059NSvEAlBp_R_QMpMeqzihli8ph5oQjgw&s" group-title="Indian Bangla", Sony Aath
 http://198.195.239.50:8095/SonyAath/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/250?cb=20240320100114" group-title="Indian Bangla", Jalsha Movies
@@ -138,7 +138,7 @@ http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Indian Hindi", Zee cinema
 http://103.204.43.87:8080/live/1/1/240.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Zeecafe.jpg" group-title="Indian Hindi", Zee Cafe
-http://103.229.254.25:7001/play/a0cx/index.m3u8
+https://stream.ottplus.bd/live/zee_cafe_hd_abr/live/zee_cafe_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Classic.jpg/revision/latest?cb=20200907154854" group-title="Indian Hindi", Zee Classic
 http://103.229.254.25:7001/play/a09w/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="Indian Hindi", Zee Action
@@ -160,11 +160,11 @@ https://mumt03.tangotv.in/FOODFOOD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0y5b5fntkMFW5n5IQZPMMtC4_2uzEgmWaSdlJr8Ystg&s&ec=121630468" group-title="Sports", Star Sports 1
 http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU3jwe6t1NM29BfFzccILmmX_KUjoTkCuYwE5LvH30ng&s&ec=121630468" group-title="Sports", Star Sports 2
-http://110.39.27.47:8001/play/a01m/index.m3u8
+https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtx36ASmab8Tmsxu-XfH2yRyOiWJNtz_oJQ&s" group-title="Sports", Sony Sports 1
 https://stream.ottplus.bd/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="src="https://medianet.mv/media/channel/187x0-icon.png"" group-title="Sports", Sony Sports 2
-http://103.157.248.140:8000/play/a01m/index.m3u8
+https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png" group-title="Sports", Sony Sports 5
 https://stream.ottplus.bd/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png" group-title="Sports", PTV Sports
