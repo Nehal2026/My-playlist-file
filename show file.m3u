@@ -68,7 +68,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp_RBPU1oRmxPvW6JubzuBZYZfgieLOEzAFg&s" group-title="Bangla", Gaan Bangla
 https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVqD7TdaRT96-e7sp1S-SphXZNrBia7fQPg&s" group-title="Bangla", Nexus TV
-https://tvsen6.aynaott.com/nexustv/index.m3u8
+https://tvsen6.aynaott.com/nexustv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxJkU38yRpKen1nYpfH7p8MQuSRoRZ-wB7nA&s" group-title="Bangla", Global TV
 https://tvsen6.aynaott.com/globaltvhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Ekhon_Logo.svg/1280px-Ekhon_Logo.svg.png" group-title="Bangla", Ekhon TV
@@ -100,7 +100,7 @@ https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="Indian Bangla", Colors Bangla
 https://tvsen6.aynaott.com/ColorsBangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI059NSvEAlBp_R_QMpMeqzihli8ph5oQjgw&s" group-title="Indian Bangla", Sony Aath
-http://198.195.239.50:8095/SonyAath/index.m3u8
+https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/250?cb=20240320100114" group-title="Indian Bangla", Jalsha Movies
 http://103.229.254.25:7001/play/a0dt/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOMeA--oDs9z3OZnonebWzs7-8Cd77AWyaQA&s" group-title="Indian Bangla", Zee Bangla Cinema
