@@ -65,7 +65,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 http://103.204.43.87:8080/live/1/1/282.m3u8
 #EXTINF:-1 tvg-logo="https://tvsen6.aynascope.net/satv/index.m3u8?e=1775107104&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5d52765979ed72bafdfb6c9857faeb2d" group-title="Bangla", Ananda TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp_RBPU1oRmxPvW6JubzuBZYZfgieLOEzAFg&s" group-title="Bangla", Gaan Bangla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp_RBPU1oRmxPvW6JubzuBZYZfgieLOEzAFg&s" group-title="Music", Gaan Bangla
 https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVqD7TdaRT96-e7sp1S-SphXZNrBia7fQPg&s" group-title="Bangla", Nexus TV
 https://tvsen6.aynaott.com/nexustv/tracks-v1a1/mono.ts.m3u8
@@ -102,7 +102,7 @@ https://tvsen6.aynaott.com/ColorsBangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI059NSvEAlBp_R_QMpMeqzihli8ph5oQjgw&s" group-title="Indian Bangla", Sony Aath
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest/scale-to-width-down/250?cb=20240320100114" group-title="Indian Bangla", Jalsha Movies
-http://103.229.254.25:7001/play/a0dt/index.m3u8
+http://198.195.239.50:8095/JalshaMovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOMeA--oDs9z3OZnonebWzs7-8Cd77AWyaQA&s" group-title="Indian Bangla", Zee Bangla Cinema
 http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Indian Bangla", Star Jalsha Josh
@@ -171,7 +171,7 @@ https://stream.ottplus.bd/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Eurosport_logo_%282001-2011%29.svg/960px-Eurosport_logo_%282001-2011%29.svg.png" group-title="Sports", Euro Sports
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Sports", Willow Sports
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20241011098963/en/2269728/22/Willow_Sports_Stacked_Logo_-_White_%281%29.jpg" group-title="Sports", Willow Sports
 https://playztv-apps.pages.dev/willow/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Sports", BTV
 
@@ -197,7 +197,7 @@ https://mumt04.tangotv.in/m18aqlK4B4UMUSIC/tracks-v2a1/mono.m3u8
 https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/63/2/zing-logo-png_seeklogo-630204.png" group-title="Music", Zing
 https://stream.ottplus.bd/live/zing_sd_abr/live/zing_sd_720/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nLdCAaH9x9Vf9sYm4vjY49sOL7PbDxf8dlAU1H5p-49A=s900-c-k-c0x00ffffff-no-rj" group-title="Music", Music Indian
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nLdCAaH9x9Vf9sYm4vjY49sOL7PbDxf8dlAU1H5p-49A=s900-c-k-c0x00ffffff-no-rj" group-title="Music", Music India
 https://cdn-2.pishow.tv/live/226/226_2.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lZEnCMQZz6FfEgDysuhVObO6O972OlqzBOaGwninMVpWk=s900-c-k-c0x00ffffff-no-rj" group-title="Music", Zoom
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
