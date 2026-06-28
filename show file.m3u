@@ -3,6 +3,7 @@
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Bangla", BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF8c2to1SEat230-mCcJpCIlfHt1eNT0B_mQ&s" group-title="Bangla", BTV News
 https://streams.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMqhS3cTU6GPVhNDTUtrDkr33CHT8kQRIHKQ&s" group-title="Bangla", BTV Chattogram
