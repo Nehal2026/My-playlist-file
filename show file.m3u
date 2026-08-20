@@ -57,14 +57,14 @@ https://stream.ottplus.bd/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Entertainment", Channel 9
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Entertainment", GTV
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Entertainment", Gazi TV
+https://app.ncare.live/live-orgin/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Entertainment", Asian TV
-
+https://tvsen6.aynaott.com/tV8mB2zP7rX4kL1w/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Entertainment", SA TV
-
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Entertainment", Deepto TV
-
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Entertainment", Bangla TV
 https://stream.ottplus.bd/live/bangla_tv_hd_abr/live/bangla_tv_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Entertainment", SRK TV
@@ -120,7 +120,7 @@ https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzM8KcM4s0KQII8cAmZiqxKQ8VJNWwLp3ldeK_-5ujIg&s&ec=121630468" group-title="Entertainment", Star Plus
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcIvnJM5mfnt73cpijdhyNwTuFXiDEOn12sQ&s" group-title="Entertainment", Star Gold
-
+https://s3.itcnbd.live/channel/f5dd87a5c3b03131.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPbszhNuHnVKOD6OhoL9SoTPYc2sXKRHTYfQnLEJnfDg&s&ec=121630468" group-title="Entertainment", Sony TV
 https://stream.ottplus.live/live/sony_ent_sd_abr/live/sony_ent_sd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECsfklKhMvwqVD4OOJucklPqSpv6sDybXX7TiChKi-A&s&ec=121630468" group-title="Entertainment", Zee tv
