@@ -108,7 +108,7 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Movies", Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Movies", Jalsha Movies
-https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4xMzk6ODA5MC9obHMvSmFsc2hhTW92aWVzSEQubTN1OA.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Entertainment", Sun Bangla TV
 https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1669
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Entertainment", DD Bangla
@@ -188,7 +188,7 @@ https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1345
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Kids", Joy
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Kids", Disney
-https://s3.itcnbd.live/channel/6693b38291a7d098.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Kids", Smarty
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Kids", Funny Junior
@@ -244,7 +244,7 @@ https://stream.ottplus.bd/live/animal_planet_sd_abr/live/animal_plnet_sd/chunks.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Information", TLC
 https://stream.ottplus.bd/live/tlc_sd_abr/live/tlc_sd/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Information", History TV 18
-https://live.thebosstv.com:30443/dwlive/HISTORY/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="News", BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="News", CNN
