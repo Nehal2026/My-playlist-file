@@ -118,23 +118,23 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/in
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="News", R Plus
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzM8KcM4s0KQII8cAmZiqxKQ8VJNWwLp3ldeK_-5ujIg&s&ec=121630468" group-title="Entertainment", Star Plus
-
+https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcIvnJM5mfnt73cpijdhyNwTuFXiDEOn12sQ&s" group-title="Entertainment", Star Gold
-
+https://livetv.shamon-cable.net:8443/StarGold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPbszhNuHnVKOD6OhoL9SoTPYc2sXKRHTYfQnLEJnfDg&s&ec=121630468" group-title="Entertainment", Sony TV
 https://stream.ottplus.live/live/sony_ent_sd_abr/live/sony_ent_sd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECsfklKhMvwqVD4OOJucklPqSpv6sDybXX7TiChKi-A&s&ec=121630468" group-title="Entertainment", Zee tv
-https://stream.ottplus.bd/live/zee_tv_hd_abr/live/zee_tv_hd_720/chunks.m3u8
+https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/live/zee_tv_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1qkbRgPHAAP22VUk5MUuTRf4_BTdni5JomzGElo19w&s&ec=121630468" group-title="Entertainment", Sony SAB
-https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtLKfCarYeEfYIxx-ahZs3kUgpCWp69jnSGpR_9SQ9Nw&s&ec=121630468" group-title="Entertainment", Sony Max
-https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
+https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Zee_Cinema_logo.png" group-title="Movies", Zee cinema
-https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
+https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Classic.jpg/revision/latest?cb=20200907154854" group-title="Entertainment", Zee Classic
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png" group-title="Movies", Zee Action
-
+https://stream.ottplus.live/live/zee_action_abr/live/zee_action_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Movies", Zee Classic
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Entertainment", Zee Action
@@ -144,7 +144,7 @@ https://stream.ottplus.bd/live/zee_action_abr/live/zee_action_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Entertainment", &TV
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Entertainment", Anmol TV
-https://stream.ottplus.bd/live/zee_anmol_abr/live/zee_anmol_720/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Entertainment", Hum TV
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Entertainment", KBS World
@@ -160,31 +160,31 @@ https://stream.ottplus.bd/live/zee_anmol_abr/live/zee_anmol_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Entertainment", Green Entertainment
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Movies", Sony Pix
-
+https://drk6xq0vhn.gpcdn.net/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Movies", Zee Bollywood
-https://stream.ottplus.bd/live/zee_bollywood_abr/live/zee_bollywood_720/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Movies", B4U Movies
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Movies", & Pictures
-https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Movies", Sony Max 2
-https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Movies", Lotus Macau
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Movies", Screem
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Kids", Cartoon Network
-https://stream.ottplus.bd/live/cn_hd_abr/live/cn_hd/chunks.m3u8
+https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/live/cn_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Kids", Discovery Kids
-https://stream.ottplus.bd/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
+https://stream.ottplus.live/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Kids", Sony Yay
-https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8?nimblesessionid=238876786
+https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Kids", Pogo
-https://stream.ottplus.bd/live/pogo_sd_abr/live/pogo_sd/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Kids", Nick
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Kids", Sonic
-https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1345
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Kids", Nikky
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Kids", Joy
@@ -233,18 +233,18 @@ https://stream.ottplus.bd/live/zing_sd_abr/live/zing_sd_720/chunks.m3u8
 https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Music", Zoom
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Information", Discovery Bangla
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Information", Discovery
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/live/discovery_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Information", Discovery Science
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Information", Discovery Turbo
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Information", Discovery Investigation
-https://stream.ottplus.bd/live/id_hd_abr/live/id_hd/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Information", Animal Plannet
-https://stream.ottplus.bd/live/animal_planet_sd_abr/live/animal_plnet_sd/chunks.m3u8
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/live/animal_planet_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Information", TLC
-https://stream.ottplus.bd/live/tlc_sd_abr/live/tlc_sd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="Information", History TV 18
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3MO8J0PAcEot9dlQbnl4JVjsbU9KbDcx96Q&s" group-title="News", BBC News
